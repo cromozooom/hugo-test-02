@@ -1,0 +1,12 @@
+# theme.toml template for a Hugo theme
+
+name = "GiraffeAcademy Theme"
+license = "MIT"
+description = "A theme used in the Giraffe Academy Hugo course"
+tags = []
+features = []
+min_version = "0.25.1"
+
+[author]
+  name = "Razvan"
+  homepage = "http://www.solopx.com"
